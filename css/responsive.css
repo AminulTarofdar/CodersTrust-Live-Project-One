@@ -1,0 +1,360 @@
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 993px){
+
+
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 769px) and (max-width : 992px) {
+
+    .top_bar {
+        padding: 5px 0;
+    }
+    
+    .book{
+        padding: 18px 25px;
+    }
+    .book_button {
+        padding: 28px 14px;
+        margin-left: 32%;
+    }
+
+    .book_icon {
+        padding: 0 2px;
+    }
+
+    #logo {
+        margin-top: -25px;
+        padding-left: 80px;
+    }
+    
+    .logo_text a {
+        font-size: 35px;
+    }
+
+    .main_menu li{
+        padding: 0 5px;
+        margin: 0;
+    }
+    .main_menu li a{
+       padding: 8px 0;
+        font-size: 11px;
+    }
+
+    .slider_text{
+       padding: 10px 0;
+        margin: -15px 18%;
+    }
+
+
+    .apartment_details {
+        margin: -8px 0;
+        min-height: 150px;
+        padding: 0 61px;
+    }
+    #slider {
+        min-height: 357px;
+    }
+
+    .staynorwich {
+        padding: 12px 0;
+    }
+    
+    .staynorwich h2{
+        font-size: 30px;
+    }
+    .staynorwich h3{
+        padding: 0 11px;
+        font-size: 18px;
+    }
+.promo_text h3 {
+        top: -16px;
+        font-size: 16px;
+    }
+
+    .promo_list li i {
+        font-size: 15px;
+    }
+    .promo_list li {
+        padding: 5px 2px;
+        font-size: 14px;
+    }
+
+    #callto_action{
+        min-height: 544px;
+    }
+    .call_info {
+        padding: 10px 19px;
+        margin-top: 63px;
+        margin-bottom: 23px;
+    }
+    .footer_logo {
+        padding: 20px 0;
+    }
+    .footer_title_text {
+        padding: 10px 0;
+        text-align: center;
+    }
+    #subscribe {
+    padding: 0;
+    }
+
+
+}
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 481px) and (max-width : 768px) {
+
+    .top_bar {
+        padding: 5px 0;
+    }
+    
+    .book{
+        padding: 18px 25px;
+    }
+    .book_button {
+        padding: 28px 14px;
+        margin-left: 32%;
+    }
+
+    .book_icon {
+        padding: 0 2px;
+    }
+
+    #logo {
+        margin-top: -25px;
+        padding-left: 80px;
+    }
+    
+    .logo_text a {
+        font-size: 35px;
+    }
+
+    .main_menu li{
+        padding: 0 5px;
+        margin: 0;
+    }
+    .main_menu li a{
+       padding: 8px 0;
+        font-size: 11px;
+    }
+
+    .slider_text{
+       padding: 10px 0;
+        margin: -15px 18%;
+    }
+
+
+    .apartment_details {
+        margin: -8px 0;
+        min-height: 150px;
+        padding: 0 61px;
+    }
+    #slider {
+        min-height: 357px;
+    }
+
+    .staynorwich {
+        padding: 12px 0;
+    }
+    
+    .staynorwich h2{
+        font-size: 30px;
+    }
+    .staynorwich h3{
+        padding: 0 11px;
+        font-size: 18px;
+    }
+    
+    .promo_text h3 {
+        top: -16px;
+        font-size: 16px;
+    }
+
+    .promo_list li i {
+        font-size: 15px;
+    }
+    .promo_list li {
+        padding: 5px 2px;
+        font-size: 14px;
+    }
+
+    #callto_action{
+        min-height: 544px;
+    }
+    .call_info {
+        padding: 10px 19px;
+        margin-top: 63px;
+        margin-bottom: 23px;
+    }
+    .footer_logo {
+        padding: 20px 0;
+    }
+    .footer_title_text {
+        padding: 10px 0;
+        text-align: center;
+    }
+    #subscribe {
+    padding: 0;
+    }
+
+
+
+
+
+
+
+
+
+ 
+}
+        
+
+
+    /* Extra Small Devices, Phones */
+    @media only screen and (max-width : 480px) {
+    
+    .top_bar {
+        padding: 6px 20px;
+    }
+    
+    .book{
+        padding: 13px 8px;
+    }
+    .book_button {
+        padding-top: 31px;
+    }
+
+    .book_icon {
+        padding: 0 2px;
+    }
+
+    #logo {
+        margin-top: -17px;
+        padding-left: 43px;
+    }
+    
+    .logo_text a {
+        font-size: 21px;
+    }
+
+    .navbar-header{
+        margin: 0 38%;
+    }
+    .collaps_btn{
+        padding: 10px 16px;
+    }
+
+
+    .slider_text{
+        padding: 14px 6px;
+    }
+
+
+    .apartment_details {
+        margin: -8px 0;
+        min-height: 150px;
+    }
+    #slider {
+        min-height: 399px;
+    }
+
+    .staynorwich {
+        padding: 12px 0;
+    }
+    
+    .staynorwich h2{
+        font-size: 19px;
+    }
+    .staynorwich h3{
+        padding: 0 11px;
+        line-height: 1.4;
+        font-size: 18px;
+    }
+    .offer_section {
+        padding: 0;
+    }
+
+    .location h3{
+        margin: 10px 30%;
+        width: 41%;
+        padding: 12px 0;
+    }
+     .reservation {
+        padding-top: 32px;
+     }
+    .reservation h3{
+       margin: 29px 21%;
+        width: 58%;
+        padding: 11px 0;
+    }
+    .location p {
+        font-size: 14px;
+        padding: 0 5px;
+    }
+
+    .location>.read_more{
+        padding: 12px 41px;
+        margin: 0 21%;
+    }
+    
+    .search_button {
+        padding: 14px 87px;
+    }
+    .separator {
+        width: 50%;
+        margin: 22px auto;
+    }
+    .promo_text h3 {
+        top: -16px;
+        font-size: 16px;
+    }
+
+    .promo_list li i {
+        font-size: 15px;
+    }
+    .promo_list li {
+        padding: 5px 2px;
+        font-size: 14px;
+    }
+
+    .promo_bottom_text a{
+        margin: 0 29%;
+    }
+    .guest_think_title{
+        font-size: 24px;
+    }
+    .promo{
+        padding: 0;
+    }
+
+    .tistimonial_text {
+        font-size: 17px;
+        padding: 0;
+    }
+    .call_info {
+        padding: 10px 19px;
+        margin-top: 63px;
+        margin-bottom: 23px;
+    }
+    .footer_logo {
+        padding: 20px 0;
+    }
+    .footer_title_text {
+        padding: 10px 0;
+        text-align: center;
+    }
+
+
+}
+
+  
