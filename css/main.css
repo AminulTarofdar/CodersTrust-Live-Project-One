@@ -388,11 +388,8 @@ input.search-form:hover {
 
 
 .header{
-<<<<<<< HEAD
   margin: 20px 0;
-=======
   margin: 20px 0
->>>>>>> origin/CT1
 }
 
 /*logo*/
@@ -414,18 +411,13 @@ input.search-form:hover {
 /*call number*/
 
 .call_icon{
-<<<<<<< HEAD
-      font-size: 26px;
-    padding: 0 11px;
-=======
-   font-size: 26px;
-    padding: 0 11px;
+  font-size: 26px;
+  padding: 0 11px;
+  font-size: 26px;
+  padding: 0 11px;
 }
 
-.call_number{
 
->>>>>>> origin/CT1
-}
 
 /*book button*/
 .book_button a{
@@ -785,12 +777,6 @@ min-height: 500px;
 .call_info_text h3{
   margin-top: -33px;
   padding: 10px 0;
-<<<<<<< HEAD
-=======
-}
-.call_info p{
-  
->>>>>>> origin/CT1
 }
 
 
@@ -815,8 +801,8 @@ min-height: 500px;
     color: #fff;
 }
 .sign_up input{
- padding: 12px 10px;
-    width: 47%;
+  padding: 12px 10px;
+  width: 47%;
 }
 .sign_up{
   padding: 0 187px;
@@ -900,9 +886,5 @@ min-height: 500px;
   color: #999;
   padding: 17px 0;
   border-top: 1px solid #eaeaea;
-<<<<<<< HEAD
   margin-bottom: 0;
 }
-=======
-}
->>>>>>> origin/CT1
